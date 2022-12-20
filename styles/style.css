@@ -132,7 +132,6 @@ body {
 @media screen and (min-width: 1440px) {
 
     body {
-        padding: 10% 5% 10% 5%;
         height: 100vh;
     }
 
@@ -198,7 +197,7 @@ body {
 @media screen and (min-width: 1024px) {
 
     body {
-        padding: 10% 5% 10% 5%;
+        padding: 5% 2.5% 5% 2.5%;
         height: 100vh;
         width: 100vw;
     }
