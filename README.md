@@ -8,6 +8,8 @@ This is a solution to the [Design preview for the 3-column preview card componen
 
 ![](./screenShot.png)
 
+## Test the project on your device: [Teste the project here!!!](https://3-column-preview-card-theta-pied.vercel.app/)
+
 ### Built with
 
 - Semantic HTML5;
